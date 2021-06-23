@@ -1,4 +1,5 @@
 # ARP-ASSIGNMENT-3
+# S5058220 RAKESH MOTAMARRI
 
 Simple iteration of the dining philosophers problem, using only IPC  and not used pipes and signal.
 # REQUIREMENTS
